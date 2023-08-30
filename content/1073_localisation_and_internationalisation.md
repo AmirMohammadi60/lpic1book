@@ -189,7 +189,7 @@ and you can also add your desired `LANG` config to your `~/.bash_profile` or `~/
 
 ### Character Encoding
 
-#### ACSII
+#### ASCII
 
 Computers used to work with 7bit characters encoding. That would give us 128 characters which was enough for numbers, punctuation and digits!
 
